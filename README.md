@@ -1,2 +1,5 @@
-# dashcommunity.github.io
-Landing page for dash community
+# Dash Community
+
+##### About this repository
+
+This repository contains files for the main Dash Community [landing page](https://dashcommunity.github.io ) 
